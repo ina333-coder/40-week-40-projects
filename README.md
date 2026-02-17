@@ -1,5 +1,9 @@
-# 40-week-40-projects
-study_timer
+# Study Timer (Pomodoro)
+Description
+
+This is a simple Python project that helps users focus on studying using a countdown timer.
+It asks for a study topic, runs a timer, and then suggests a random break activity.
+
 What the project does
 
 The project is the ensure that the children or people of any age who faces difficulty to study due to distraction can get back to study with this program. it uses a simple pomodoro technique to study which is 25 min study and 5 min break. Often people who tries pomodoro technique doesn't know what to do in this 5 min break and end up scrolling phone for many hours instead of 5 min, for such people we offer simple task to do during that 5 min.which helps to make that study period effectively.
